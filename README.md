@@ -9,6 +9,7 @@ For University of Maryland's Mechanical Engineering capstone project, my team so
 ## Problem
 
 How do we utilize the 3-axis accelerometer data to determine whether or not someone is in the process of standing up?
+
 *Note: I did not have a kinesiology background and did not have the bandwidth to derive a formula for this problem!*
 
 ## Solution
@@ -18,7 +19,9 @@ A 3 input neural network with 1 hidden layer, sigmoid activation functions, and 
 ## Repo Contents
 
 Data:
+
 Data Visualization:
+
 Neural Network: 
 1. My own implementation without APIs
 2. TensorFlow Implementation
